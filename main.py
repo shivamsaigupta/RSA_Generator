@@ -1,4 +1,3 @@
-#Km to miles converter by Shivam Sai Gupta
 import tkinter
 from tkinter import *
 import random
